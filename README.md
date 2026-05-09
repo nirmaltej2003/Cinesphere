@@ -2,8 +2,10 @@
 
 > A sleek movie discovery and tracking web app built with React + Vite, powered by the IMDB unofficial API.
 
-![CineSphere ](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081100.png)
-
+![CineSphere Discover ](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081100.png)
+![CineSphere Login](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081036.png)
+![CineSphere Watchlist](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081036.png)
+![CineSphere Favourites](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081036.png)
 ---
 
 ## ✨ Features
