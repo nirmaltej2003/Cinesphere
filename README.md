@@ -15,7 +15,7 @@ Watchlist:
 
 ![CineSphere Watchlist](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081529.png)
 
-Favourites:
+Favorites:
 
 ![CineSphere Favourites](https://github.com/nirmaltej2003/Cinesphere/blob/main/Screenshot%202026-05-09%20081928.png)
 
